@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(229, 253, 230);
+  }
+  h1 {
+    color: rgb(79, 35, 6);
+    font-family: courier;
+  }
+  p {
+    color: rgb(12, 47, 2);
+    font-family: courier;
+  }
